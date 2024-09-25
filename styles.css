@@ -76,6 +76,24 @@ ul{
     color:white;
     padding-top: 5px;
     padding-bottom:5px;
-    
 }
 
+.contenttext{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin: 30px;
+}
+
+.albumrow{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.albumtext{
+    width:200px;
+    text-align: center;
+    font-size: 18px;
+    color:gray;
+}
