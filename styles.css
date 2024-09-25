@@ -78,6 +78,11 @@ ul{
     padding-bottom:5px;
 }
 
+.albumcontent{
+    margin-bottom: 60px;
+}
+
+
 .contenttext{
     font-size: 36px;
     color: #1F2937;
@@ -97,3 +102,32 @@ ul{
     font-size: 18px;
     color:gray;
 }
+
+.quotecontainer{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    
+    padding: 50px;
+
+}
+
+.quote{
+    font-style: 'Roboto', Light italic;
+    font-size: 36px;
+    color:#1F2937;
+    width: 800px;
+    align-self: center;
+    padding-bottom: 10px;
+}
+
+.quotespeaker{
+    justify-content: flex;
+    padding-right: 200px;
+    align-self: flex-end;
+    font-size: 16px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+
